@@ -25,4 +25,4 @@
 
 </span>
 
-Lets Follow
+Lets Connect
