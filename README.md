@@ -1,4 +1,24 @@
 
+### Hi there 👋
+
+I am a self-taught Web Developer from Pakistan.
+
+#### About me
+
+- Full Stack Laravel Developer .
+- My current stacks are [Php Laravel], [Tailwind CSS](https://tailwindcss.com/).
+- Also, I have experience with [React.js](https://reactjs.org/) and [Laravel](https://laravel.com/).
+- Reach me at showkii009@gmail.com.
+
+#### Github Stats
+
+[![Warsono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showkiip&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Showkiip&layout=compact&theme=dracula&hide_border=true" /></a>
+
+
+
+
 <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
