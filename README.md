@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am a self-taught Web Developer from Pakistan.
+Cultivating my skills independently, I've emerged as a proficient Web Developer hailing from Pakistan.
 
 #### About me
   <div class="text-mono text-small mb-3">
