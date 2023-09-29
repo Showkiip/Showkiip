@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Cultivating my skills independently, I've emerged as a proficient Web Developer hailing from Pakistan.
+Cultivating my skills independently, I've emerged as a proficient Web developer hailing from Pakistan.
 
 #### About me
   <div class="text-mono text-small mb-3">
