@@ -17,9 +17,7 @@ Cultivating my skills independently, I've emerged as a proficient Web developer 
 
 #### Github Stats
 
-[![Warsono's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showkiip&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Showkiip&layout=compact&theme=dracula&hide_border=true" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showkiip&show_icons=true&theme=radical)
 
 
 <div class="Box-body p-4">
