@@ -27,7 +27,7 @@ Cultivating my skills independently, I've emerged as a proficient Web developer 
 
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Showkiip&show_icons=true&locale=en&layout=compact" alt="Showkiip" /></p>
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Showkiip&" alt="Showkiip" /></p>
+<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Showkiip" alt="Showkiip" /></p>
   
 
 </span>
