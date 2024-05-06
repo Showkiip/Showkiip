@@ -15,10 +15,6 @@ Cultivating my skills independently, I've emerged as a proficient software engin
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me on linkedIn <a href="https://www.linkedin.com/in/showkii-paa/" rel="nofollow">Showkat Ali</a></li>
 </ul>
 
-#### Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showkiip&show_icons=true&theme=radical)
-
 
 <div class="Box-body p-4">
 <p align="left">
