@@ -19,7 +19,7 @@
       </h1>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
   <div class="text-mono text-small mb-3">
         <a href="/showkip/showkiip" class="no-underline Link--primary">showkip</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
