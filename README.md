@@ -30,8 +30,6 @@
 <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on React js and laravel  projects</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me on linkedIn <a href="https://www.linkedin.com/in/showkii-paa/" rel="nofollow">Showkat Ali</a></li>
 </ul>
-
-
 <div class="Box-body p-4">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Showkiip&label=Profile%200views&color=129e00&style=plastic" alt="Showkiip" /> </p>
