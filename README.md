@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
   <div class="text-mono text-small mb-3">
         <a href="/showkip/showkiip" class="no-underline Link--primary">showkip</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
+  </div>
 <ul>
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @Showkip</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m  Full Stack developer (Laravel ,Bootstrap ,React Js etc)</li>
