@@ -1,41 +1,77 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/showkii-paa/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.youtube.com/channel/UCo3zIfbzJr_rkgzbY52SI9Q">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      </a>
-      <a href="your-twitter-URL">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/showkii-paa/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCo3zIfbzJr_rkgzbY52SI9Q">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://twitter.com/your-twitter-username">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
   </div>
-      <img src="https://komarev.com/ghpvc/?username=Showkiip&style=flat-square&color=blue" alt=""/>
-      <h1>
-        ### Hi there
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
+  <img src="https://komarev.com/ghpvc/?username=Showkiip&style=flat-square&color=blue" alt="Profile Views"/>
+  <h1>
+    ### Hi there 👋
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-### :man_technologist: About Me :
-  <div class="text-mono text-small mb-3">
-        <a href="/showkip/showkiip" class="no-underline Link--primary">showkip</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-  </div>
-<ul>
-<li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @Showkip</li>
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m  Full Stack developer (Laravel ,Bootstrap ,React Js etc)</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m working on  laravel , Reactjs/ Nextjs and Python(ML) </li>
-<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on React js and laravel  projects</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me on linkedIn <a href="https://www.linkedin.com/in/showkii-paa/" rel="nofollow">Showkat Ali</a></li>
-</ul>
-<div class="Box-body p-4">
+### :man_technologist: About Me:
+- 👋 Hi, I’m @Showkip
+- 👀 I’m a Full Stack Developer (Laravel, Bootstrap, React.js, etc.)
+- 🌱 I’m currently working with Laravel, React.js/Next.js, and Python (ML)
+- 💞️ I’m looking to collaborate on React.js and Laravel projects
+- 📫 How to reach me: [LinkedIn - Showkat Ali](https://www.linkedin.com/in/showkii-paa/)
+
+---
+
+### My GitHub Stats
+
+| **Total Repos** | **Total Stars** | **Total Forks** |
+|-----------------|-----------------|-----------------|
+| ![Repos](https://img.shields.io/badge/repos-10-blue) | ![Stars](https://img.shields.io/badge/stars-150-yellow) | ![Forks](https://img.shields.io/badge/forks-30-green) |
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Showkiip&label=Profile%200views&color=129e00&style=plastic" alt="Showkiip" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=Showkiip&label=Profile%200views&color=129e00&style=plastic" alt="Showkiip" />
+</p>
+
 <hr/>
 
-<span>
-  <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Showkiip&show_icons=true&locale=en&layout=compact" alt="Showkiip" /></p>
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Showkiip" alt="Showkiip" /></p>
-</span>
+### GitHub Activity Stats
+- **Top Languages Used:**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Showkiip&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
+  
+- **Streak Stats:**
+  <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Showkiip" alt="Streak Stats" />
 
+<hr/>
+
+### Technologies & Tools I Work With:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### My Recent Projects:
+- [**Project 1 - React Weather App**](https://github.com/Showkiip/react-weather-app) - A weather forecasting app built with React.
+- [**Project 2 - Laravel E-Commerce**](https://github.com/Showkiip/laravel-ecommerce) - A full-stack e-commerce site built with Laravel.
+- [**Project 3 - Python ML Model**](https://github.com/Showkiip/python-ml-model) - A machine learning model for predicting house prices.
+
+---
+
+### GitHub Activity Graph:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Showkiip&show_icons=true&theme=radical)
+
+
+<hr/>
+
+### Fun Facts:
+- I love open-source contributions! Feel free to contribute to my projects.
+- I am a coffee enthusiast ☕. Ask me about my favorite brewing methods!
