@@ -39,12 +39,12 @@
 
 <hr/>
 
-### GitHub Activity Stats
-- **Top Languages Used:**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Showkiip&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="50%" />
-  
-- **Streak Stats:**
-  <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Showkiip" alt="Streak Stats" />
+### GitHub Streak Stats:
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Showkiip&theme=dark" alt="GitHub Streak" /></a>
+### Top Languages Used:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Showkiip&show_icons=true&locale=en&layout=compact&theme=radical)
+
+
 
 <hr/>
 
