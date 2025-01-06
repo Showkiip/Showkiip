@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me:
 - 👋 Hi, I’m @Showkip
-- 👀 I’m a Full Stack Developer (Laravel, Bootstrap, React.js, etc.)
+- 👀 I’m a Senior Full Stack Web Developer (Laravel, Bootstrap, React.js, etc.)
 - 🌱 I’m currently working with Laravel, React.js/Next.js, and Python (ML)
 - 💞️ I’m looking to collaborate on React.js and Laravel projects
 - 📫 How to reach me: [LinkedIn - Showkat Ali](https://www.linkedin.com/in/showkii-paa/)
